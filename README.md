@@ -1,7 +1,7 @@
 # My first README.md
 Hi, my name is Ana Luísa and I'm also known as Analu.
 
-My hobbies:
+My hobbies are:
 - Ride a bicycle
 - Play Pokemon Go
 - Ride a bycicle and play Pokemon Go at the same time
