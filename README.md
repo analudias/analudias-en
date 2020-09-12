@@ -16,4 +16,4 @@ My hobbies are:
 All of this happens when I'm not coding!
 Currently, I'm studing [Java](https://www.udemy.com/course/java-curso-completo/) and [mobile development](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) with Udemy courses.
 
-If you would like to now more about me, fell free to conect with me on my [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
+If you would like to now more about me, fell free to connect with me on my [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
