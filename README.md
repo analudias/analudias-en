@@ -3,8 +3,6 @@ Hi there, my name is Ana Luísa and I'm also known as Analu.
 
 My hobbies are:
 - Ride a bicycle
-- Play Pokemon Go
-- Ride a bycicle and play Pokemon Go at the same time
 - Play video-games
   - First: Master-System
   - Current: PS4
