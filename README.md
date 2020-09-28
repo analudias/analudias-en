@@ -1,7 +1,7 @@
 # My first README.md
 Hi there, my name is Ana Luísa and I'm also known as Analu.
 
-Currently, I'm studing [Java](https://www.udemy.com/course/java-curso-completo/) and [mobile development](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) with Udemy courses and full-stack development bootcamp from [DevSuperior](https://www.linkedin.com/company/devsuperior/)
+Currently, I'm studing [Java](https://www.udemy.com/course/java-curso-completo/) and [mobile development](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) with Udemy courses and full-stack bootcamp development from [DevSuperior](https://www.linkedin.com/company/devsuperior/)
 
 When I'm not coding, my hobbies are:
 - Ride a bicycle
