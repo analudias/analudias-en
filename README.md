@@ -14,3 +14,5 @@ When I'm not coding, my hobbies are:
   - And musicals will always have a bigger place in my heart <3
 
 If you would like to now more about me, fell free to connect with me on my [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analudias)](https://github.com/anuraghazra/github-readme-stats)
