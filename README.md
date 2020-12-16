@@ -3,7 +3,7 @@ Hi there, my name is Ana Luísa and I'm also known as Analu.
 
 Currently, I'm studing [Java](https://www.udemy.com/course/java-curso-completo/) and [mobile development](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) with Udemy courses and enrolled on full-stack bootcamp development from [DevSuperior](https://www.linkedin.com/company/devsuperior/), that focus on Java, ReactJS and React-Native.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analudias)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analudias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 When I'm not coding, my hobbies are:
 - Ride a bicycle
