@@ -1,18 +1,24 @@
-# My first README.md
-Hi there, my name is Ana Luísa and I'm also known as Analu.
+### 👋 Hi there, my name is Ana Luísa and I'm also known as Analu.
 
-Currently, I'm studing [Java](https://www.udemy.com/course/java-curso-completo/) and [mobile development](https://www.udemy.com/course/curso-completo-do-desenvolvedor-android/) with Udemy courses and enrolled on full-stack bootcamp development from [DevSuperior](https://www.linkedin.com/company/devsuperior/), that focus on Java, ReactJS and React-Native.
+## About me
+🎓 Graduated in Information Systems
+☕ Focused on learning Java
+📲 Mobile development lover
+📚 Currently studying Java with Spring Boot with DevSuperior
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analudias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Hobbies
+🚴 Love riding my bycicle
+📺 You can call me to watch tv show anytime
+🎮 Gamer since my childhood
 
-When I'm not coding, my hobbies are:
-- Ride a bicycle
-- Play video-games
-  - First: Master-System
-  - Current: PS4
-- Watch tv-shows
-  - Of all genres
-  - Except horror
-  - And musicals will always have a bigger place in my heart <3
+## Main Projects
+[Survvey](https://github.com/analudias/sds1-pesquisa)  
+[Client CRUD](https://github.com/analudias/ds-client)  
+[Head or Tails](https://github.com/analudias/app-cara-coroa)  
 
-If you would like to now more about me, fell free to connect with me on my [LinkedIn](https://www.linkedin.com/in/analudiastech/)!
+## My Social Media
+[<img align="left" src="https://github.com/analudias/analudias/blob/master/images/linkedin-icon.png?raw=true" alt="linkedin" width="50px"/>](https://www.linkedin.com/in/analudiastech/)
+
+[<img align="left" src="https://github.com/analudias/analudias/blob/master/images/twitch-icon.png?raw=true" alt="twitch" width="50px"/>](https://www.twitch.tv/purplepizza92)
+
+[<img align="left" src="https://github.com/analudias/analudias/blob/master/images/twitter-icon.png?raw=true" alt="linkedin" width="50px"/>](https://twitter.com/_analudias)
