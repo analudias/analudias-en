@@ -12,7 +12,7 @@
 🎮 Gamer since my childhood  
 
 ## Main Projects
-[Survvey](https://github.com/analudias/sds1-pesquisa)  
+[Gamer Survey](https://github.com/analudias/sds1-pesquisa)  
 [Client CRUD](https://github.com/analudias/ds-client)  
 [Head or Tails](https://github.com/analudias/app-cara-coroa)  
 
