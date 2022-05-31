@@ -8,7 +8,7 @@
 
 ## Hobbies
 🚴 Love riding my bycicle  
-📺 You can call me to watch tv show anytime  
+📺 You can call me to watch tv shows anytime  
 🎮 Gamer since my childhood  
 🎼 Learning how to play guitar and keyboard
 
