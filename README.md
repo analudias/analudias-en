@@ -10,7 +10,7 @@
 🚴 Love riding my bycicle  
 📺 You can call me to watch tv shows anytime  
 🎮 Gamer since my childhood  
-🎼 Learning how to play guitar and keyboard
+🎼 Learning how to play guitar
 
 ## Main Projects
 [Gamer Survey](https://github.com/analudias/sds1-pesquisa)  
